@@ -1,0 +1,446 @@
+{
+  "items": [
+    {
+      "width": {
+        "value": 248,
+        "units": "px"
+      },
+      "height": {
+        "value": 101,
+        "units": "px"
+      },
+      "top": {
+        "value": 100,
+        "units": "px"
+      },
+      "left": {
+        "value": 28,
+        "units": "px"
+      },
+      "id": "l9u2ux0j",
+      "motions": [],
+      "onClick": [],
+      "locked": false,
+      "visible": true,
+      "parentId": "root",
+      "frameId": "l9u2l5p8",
+      "selectionLevel": 0,
+      "opacity": 1,
+      "global": false,
+      "globalPlacement": "in front",
+      "parallaxProperties": [],
+      "parallaxOffset": 0,
+      "parallaxSpeed": 50,
+      "expanded": true,
+      "timeframe": [0, 2],
+      "moveBounds": "parent",
+      "singleBorderRadius": true,
+      "borderTopLeftRadius": 0,
+      "borderTopRightRadius": 0,
+      "borderBottomLeftRadius": 0,
+      "borderBottomRightRadius": 0,
+      "borderColor": "transparent",
+      "borderWidth": 0,
+      "name": "something",
+      "type": "image",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/sofiapulse-3d637.appspot.com/o/l9u2qqs7.png?alt=media&token=6ce1d71d-2c8f-44b6-880f-4b4694bcc07b",
+      "backgroundSize": "contain",
+      "srcType": "fileUrl",
+      "colors": [],
+      "autoWidth": false
+    },
+    {
+      "width": {
+        "value": 217,
+        "units": "px"
+      },
+      "height": {
+        "value": 51,
+        "units": "px"
+      },
+      "top": {
+        "value": 517,
+        "units": "px"
+      },
+      "left": {
+        "value": 44,
+        "units": "px"
+      },
+      "id": "l9u2sk7d",
+      "motions": [],
+      "onClick": [
+        {
+          "id": "openLink",
+          "linkUrl": "https://google.lt"
+        }
+      ],
+      "locked": false,
+      "visible": true,
+      "parentId": "root",
+      "frameId": "l9u2l5p8",
+      "selectionLevel": 0,
+      "opacity": 1,
+      "global": false,
+      "globalPlacement": "in front",
+      "parallaxProperties": [],
+      "parallaxOffset": 0,
+      "parallaxSpeed": 50,
+      "expanded": true,
+      "timeframe": [0, 2],
+      "moveBounds": "parent",
+      "singleBorderRadius": true,
+      "borderTopLeftRadius": 8,
+      "borderTopRightRadius": 0,
+      "borderBottomLeftRadius": 0,
+      "borderBottomRightRadius": 0,
+      "borderColor": "transparent",
+      "borderWidth": 0,
+      "name": "cta",
+      "type": "button",
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "fontStyle": "normal",
+      "color": "black",
+      "textAlign": "left",
+      "font": {
+        "provider": "Google",
+        "family": "Poppins",
+        "weights": ["100", "200", "300", "400", "500", "600", "700", "800"]
+      },
+      "text": "Explore",
+      "autoWidth": false,
+      "letterSpacing": 0,
+      "lineHeight": 1
+    },
+    {
+      "width": {
+        "value": 250,
+        "units": "px"
+      },
+      "height": {
+        "value": 263,
+        "units": "px"
+      },
+      "top": {
+        "value": 230,
+        "units": "px"
+      },
+      "left": {
+        "value": 28,
+        "units": "px"
+      },
+      "id": "l9u2ovyb",
+      "motions": [],
+      "onClick": [],
+      "locked": false,
+      "visible": true,
+      "parentId": "root",
+      "frameId": "l9u2l5p8",
+      "selectionLevel": 0,
+      "opacity": 1,
+      "global": false,
+      "globalPlacement": "in front",
+      "parallaxProperties": [],
+      "parallaxOffset": 0,
+      "parallaxSpeed": 50,
+      "expanded": true,
+      "timeframe": [0, 1],
+      "moveBounds": "parent",
+      "type": "swiper",
+      "name": "swiper",
+      "shader": "morph-x",
+      "navigation": false,
+      "navigationLeftButtonImage": "https://firebasestorage.googleapis.com/v0/b/fireck-4c36e.appspot.com/o/3diMdNCrA4Y2MwphmfupeQ.svg?alt=media&token=ea4f1640-0008-42ae-8f9f-dfdbbce8e43b",
+      "effect": "cube",
+      "activeSlideIndex": 0,
+      "prevTranslate": [-400, 0, 0],
+      "nextTranslate": [40, 0, -200],
+      "loop": true,
+      "limitProgress": 3,
+      "speed": 600,
+      "autoplay": false,
+      "autoplayDelay": 3000,
+      "premove": true,
+      "autoWidth": false
+    },
+    {
+      "width": {
+        "value": 100,
+        "units": "%"
+      },
+      "height": {
+        "value": 100,
+        "units": "%"
+      },
+      "top": {
+        "value": 0,
+        "units": "px"
+      },
+      "left": {
+        "value": 0,
+        "units": "px"
+      },
+      "id": "l9u2oxqw",
+      "motions": [],
+      "onClick": [],
+      "locked": false,
+      "visible": true,
+      "parentId": "l9u2ovyb",
+      "frameId": "l9u2l5p8",
+      "selectionLevel": 0,
+      "opacity": 1,
+      "global": false,
+      "globalPlacement": "in front",
+      "parallaxProperties": [],
+      "parallaxOffset": 0,
+      "parallaxSpeed": 50,
+      "expanded": true,
+      "timeframe": [0, 1],
+      "moveBounds": "parent",
+      "type": "group",
+      "name": "slide",
+      "clipContent": false
+    },
+    {
+      "width": {
+        "value": 229,
+        "units": "px"
+      },
+      "height": {
+        "value": 240,
+        "units": "px"
+      },
+      "top": {
+        "value": 11,
+        "units": "px"
+      },
+      "left": {
+        "value": 11,
+        "units": "px"
+      },
+      "id": "l9u2qwmk",
+      "motions": [],
+      "onClick": [],
+      "locked": false,
+      "visible": true,
+      "parentId": "l9u2oxqw",
+      "frameId": "l9u2l5p8",
+      "selectionLevel": 0,
+      "opacity": 1,
+      "global": false,
+      "globalPlacement": "in front",
+      "parallaxProperties": [],
+      "parallaxOffset": 0,
+      "parallaxSpeed": 50,
+      "expanded": true,
+      "timeframe": [0, 2],
+      "moveBounds": "parent",
+      "singleBorderRadius": true,
+      "borderTopLeftRadius": 0,
+      "borderTopRightRadius": 0,
+      "borderBottomLeftRadius": 0,
+      "borderBottomRightRadius": 0,
+      "borderColor": "transparent",
+      "borderWidth": 0,
+      "name": "slide-image",
+      "type": "image",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/sofiapulse-3d637.appspot.com/o/l9u2qqs7.png?alt=media&token=6ce1d71d-2c8f-44b6-880f-4b4694bcc07b",
+      "backgroundSize": "contain",
+      "srcType": "fileUrl",
+      "colors": [],
+      "autoWidth": false
+    },
+    {
+      "width": {
+        "value": 100,
+        "units": "%"
+      },
+      "height": {
+        "value": 100,
+        "units": "%"
+      },
+      "top": {
+        "value": 0,
+        "units": "px"
+      },
+      "left": {
+        "value": 0,
+        "units": "px"
+      },
+      "id": "l9u2oxqx",
+      "motions": [],
+      "onClick": [],
+      "locked": false,
+      "visible": true,
+      "parentId": "l9u2oxqw",
+      "frameId": "l9u2l5p8",
+      "selectionLevel": 0,
+      "opacity": 1,
+      "global": false,
+      "globalPlacement": "in front",
+      "parallaxProperties": [],
+      "parallaxOffset": 0,
+      "parallaxSpeed": 50,
+      "expanded": true,
+      "timeframe": [0, 1],
+      "moveBounds": "parent",
+      "singleBorderRadius": true,
+      "borderTopLeftRadius": 0,
+      "borderTopRightRadius": 0,
+      "borderBottomLeftRadius": 0,
+      "borderBottomRightRadius": 0,
+      "borderColor": "transparent",
+      "borderWidth": 0,
+      "name": "slide-background",
+      "type": "box",
+      "backgroundColor": "rgba(255, 255, 255, 1)"
+    },
+    {
+      "width": {
+        "value": 272,
+        "units": "px"
+      },
+      "height": {
+        "value": 70,
+        "units": "px"
+      },
+      "top": {
+        "value": 15,
+        "units": "px"
+      },
+      "left": {
+        "value": 15,
+        "units": "px"
+      },
+      "id": "l9u2mdy4",
+      "motions": [],
+      "onClick": [],
+      "locked": false,
+      "visible": true,
+      "parentId": "root",
+      "frameId": "l9u2l5p8",
+      "selectionLevel": 0,
+      "opacity": 1,
+      "global": false,
+      "globalPlacement": "in front",
+      "parallaxProperties": [],
+      "parallaxOffset": 0,
+      "parallaxSpeed": 50,
+      "expanded": true,
+      "timeframe": [0, 2],
+      "moveBounds": "parent",
+      "singleBorderRadius": true,
+      "borderTopLeftRadius": 0,
+      "borderTopRightRadius": 0,
+      "borderBottomLeftRadius": 0,
+      "borderBottomRightRadius": 0,
+      "borderColor": "transparent",
+      "borderWidth": 0,
+      "name": "logo",
+      "type": "image",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/sofiapulse-3d637.appspot.com/o/l9u2mbur.png?alt=media&token=9c83c635-a4ce-4211-a60d-55d317dc5f0c",
+      "backgroundSize": "contain",
+      "srcType": "fileUrl",
+      "colors": ["#000000"],
+      "autoWidth": false
+    },
+    {
+      "width": {
+        "value": 100,
+        "units": "%"
+      },
+      "height": {
+        "value": 100,
+        "units": "%"
+      },
+      "top": {
+        "value": 0,
+        "units": "px"
+      },
+      "left": {
+        "value": 0,
+        "units": "px"
+      },
+      "id": "l9u2lr32",
+      "motions": [],
+      "onClick": [],
+      "locked": false,
+      "visible": true,
+      "parentId": "root",
+      "frameId": "l9u2l5p8",
+      "selectionLevel": 0,
+      "opacity": 1,
+      "global": false,
+      "globalPlacement": "in front",
+      "parallaxProperties": [],
+      "parallaxOffset": 0,
+      "parallaxSpeed": 50,
+      "expanded": true,
+      "timeframe": [0, 2],
+      "moveBounds": "parent",
+      "singleBorderRadius": true,
+      "borderTopLeftRadius": 0,
+      "borderTopRightRadius": 0,
+      "borderBottomLeftRadius": 0,
+      "borderBottomRightRadius": 0,
+      "borderColor": "transparent",
+      "borderWidth": 0,
+      "name": "background",
+      "type": "box",
+      "backgroundColor": "rgba(227, 162, 255, 1)"
+    }
+  ],
+  "frames": [
+    {
+      "name": "Frame 1",
+      "id": "l9u2l5p8",
+      "motions": [],
+      "selected": true,
+      "autoAdvance": false,
+      "advanceAfter": 5
+    }
+  ],
+  "presentation": {
+    "swipe": "vertical",
+    "scroll": "none",
+    "format": {
+      "width": 300,
+      "height": 600
+    },
+    "responsive": false,
+    "variables": []
+  },
+  "flowName": "",
+  "duration": 10,
+  "fillMode": "infinite",
+  "configuration": {
+    "id": "studio",
+    "title": "Studio",
+    "haveFrames": true,
+    "items": [
+      "image",
+      "video",
+      "text",
+      "box",
+      "flexbox",
+      "button",
+      "input",
+      "chat",
+      "swiper",
+      "flipper",
+      "scroller",
+      "slider",
+      "navigation",
+      "tinder",
+      "story",
+      "pin",
+      "instagram",
+      "group",
+      "tinder-card"
+    ]
+  },
+  "previewHtml": "",
+  "editorHtml": "",
+  "authorUid": ""
+}

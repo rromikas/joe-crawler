@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.loader {
+  position: relative;
+}
+.loader__item {
+  position: absolute;
+  width: 8px;
+  height: 3px;
+  background: transparent;
+  border-radius: 1.5px;
+}
+.loader__item-1 {
+  transform: translate(7.313708499px, 9.813708499px) rotate(45deg);
+  animation: blink 0.6666666667s linear 0.0833333333s infinite;
+}
+.loader__item-2 {
+  transform: translate(-4px, 14.5px) rotate(90deg);
+  animation: blink 0.6666666667s linear 0.1666666667s infinite;
+}
+.loader__item-3 {
+  transform: translate(-15.313708499px, 9.813708499px) rotate(135deg);
+  animation: blink 0.6666666667s linear 0.25s infinite;
+}
+.loader__item-4 {
+  transform: translate(-19.9999999988px, -1.4999999998px) rotate(180deg);
+  animation: blink 0.6666666667s linear 0.3333333333s infinite;
+}
+.loader__item-5 {
+  transform: translate(-15.3137083366px, -12.8137084712px) rotate(225deg);
+  animation: blink 0.6666666667s linear 0.4166666667s infinite;
+}
+.loader__item-6 {
+  transform: translate(-3.9999911401px, -17.499998179px) rotate(270deg);
+  animation: blink 0.6666666667s linear 0.5s infinite;
+}
+.loader__item-7 {
+  transform: translate(7.3139680092px, -12.8136462038px) rotate(315deg);
+  animation: blink 0.6666666667s linear 0.5833333333s infinite;
+}
+.loader__item-8 {
+  transform: translate(12.0048195847px, -1.4986761448px) rotate(360deg);
+  animation: blink 0.6666666667s linear 0.6666666667s infinite;
+}
+@keyframes blink {
+  0% {
+    background: rgb(255, 255, 255);
+  }
+  100% {
+    background: rgba(255, 255, 255, 0.158);
+  }
+}
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    background: rotate(360deg);
+  }
+}

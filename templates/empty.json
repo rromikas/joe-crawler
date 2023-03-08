@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "width": {
+        "value": 300,
+        "units": "px"
+      },
+      "height": {
+        "value": 300,
+        "units": "px"
+      },
+      "top": {
+        "value": 0,
+        "units": "px"
+      },
+      "left": {
+        "value": 0,
+        "units": "px"
+      },
+      "id": "l9uvv4h7",
+      "motions": [],
+      "onClick": [],
+      "locked": false,
+      "visible": true,
+      "parentId": "root",
+      "frameId": "l9uvsaey",
+      "selectionLevel": 0,
+      "opacity": 1,
+      "global": false,
+      "globalPlacement": "in front",
+      "parallaxProperties": [],
+      "parallaxOffset": 0,
+      "parallaxSpeed": 50,
+      "expanded": true,
+      "timeframe": [0, 2],
+      "moveBounds": "parent",
+      "singleBorderRadius": true,
+      "borderTopLeftRadius": 0,
+      "borderTopRightRadius": 0,
+      "borderBottomLeftRadius": 0,
+      "borderBottomRightRadius": 0,
+      "borderColor": "transparent",
+      "borderWidth": 0,
+      "name": "Box 2",
+      "type": "box",
+      "backgroundColor": "rgba(45, 143, 255, 1)",
+      "autoWidth": false
+    }
+  ],
+  "frames": [
+    {
+      "name": "Frame 1",
+      "id": "l9uvsaey",
+      "motions": [],
+      "selected": true,
+      "autoAdvance": false,
+      "advanceAfter": 5
+    }
+  ],
+  "presentation": {
+    "swipe": "vertical",
+    "scroll": "none",
+    "format": {
+      "width": 300,
+      "height": 600
+    },
+    "responsive": false,
+    "variables": []
+  },
+  "flowName": "",
+  "duration": 10,
+  "fillMode": "infinite",
+  "configuration": {
+    "id": "studio",
+    "title": "Studio",
+    "haveFrames": true,
+    "items": [
+      "image",
+      "video",
+      "text",
+      "box",
+      "flexbox",
+      "button",
+      "input",
+      "chat",
+      "swiper",
+      "flipper",
+      "scroller",
+      "slider",
+      "navigation",
+      "tinder",
+      "story",
+      "pin",
+      "instagram",
+      "group",
+      "tinder-card"
+    ]
+  },
+  "previewHtml": "<!DOCTYPE html>\n  <html lang=\"en\">\n    <head>\n      <meta charset=\"utf-8\" />\n      <title>Sofia Studio</title>\n      <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n      <meta name=\"mobile-web-app-capable\" content=\"yes\" />\n      <meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n      <meta name=\"theme-color\" content=\"#673ab8\" />\n      <style>body{margin: 0;padding: 0;} *{box-sizing: border-box; border-color: #e5e7eb; border-style: solid; border-width: 0;}</style>\n    </head>\n    <body>\n      <script>const SOFIA_AD_DATA={SOFIA_AD_DATA}</script>\n      <script nomodule src=\"https://storage.googleapis.com/fireck-4c36e.appspot.com/8u9qah7nol9uvo1o7.js?GoogleAccessId=firebase-adminsdk-xs2al%40fireck-4c36e.iam.gserviceaccount.com&Expires=16731698400&Signature=29Hps6ffd4DBrT972UV3JZQkCdIV5pwE5OliMdv3VsIXTK%2Byx880OZIKt78cPCNSnd%2BL8X3y7wb%2BcP45i%2B6F1MJOlP5d8UuoUdBHkxtcvR4G%2FE%2BvMattqnmz0IKZnQusIpqkInB%2BqGlnB7awthrMfIzU03yZrgFWNL0O8XSCnkJV0kxtLWWgmjlBUtLscr6fcMhtSBbd8WtyrfYocyKsCU2oP2Vl1D6Tp%2Fy99GVPtWym34kux8VYcodjdKQmjcQ29SvhbH%2FiNGe3EQXDFbczQ7g1huhfNisY9MpmzqVlc4EwtoCC%2FkUXgCG4UwLFyj%2BGZtvNemEjwkdxB67%2F1eakwg%3D%3D\" defer></script>\n      <script src=\"https://storage.googleapis.com/fireck-4c36e.appspot.com/8u9qah7nol9uvo2ow.js?GoogleAccessId=firebase-adminsdk-xs2al%40fireck-4c36e.iam.gserviceaccount.com&Expires=16731698400&Signature=umiglEjFA0bl1Qk7bS%2B0kXQqoWdzHHcYg0Ae4IXhBHISo6Pl1olpHTiqC1CgJwlxPrTdav8SIFC03CyMmSdPgebfBjpRIxHrXT9ddAtWw8uWMWNkTLQbcKTQ4nOXMEs5t%2Bp5hXbPoOvKFcg7T4iCgujTb3tSOHG%2BHBJ18QqIHYvHRWs6uT8DMKA9PiQ9o7VZIQI0p48wNM%2BWS0vx8xe0W%2FYuabaVpqE43H%2BGuaI%2FKi9y8ytcsfO1FXj3bKhB4H9QNO%2FIK3ogULL%2Bhs%2Bl8onNjNWTFT%2BGw0b83YhRBCoHOXWN5ehRoSn0VkR3BhlNfRIFY5CvJ%2FZell1ILWtEl7UTiA%3D%3D\" defer></script>\n      <div id=\"root\"><div><div style=\"width: 300px; height: 600px; box-shadow: 0px 0px 0px 1px rgb(229 231 235); overflow: hidden; position: relative; font-family: Poppins;\"><div style=\"width: 100%; height: 100%;\"><div id=\"background\" style=\"position: absolute; z-index: 0;\"></div><div id=\"overlay\" style=\"position: absolute; z-index: 800;\"></div><div style=\"position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 1; pointer-events: auto;\"><div id=\"root\" style=\"left: 0px; top: 0px; z-index: 100; position: absolute; width: 300px; height: 600px; cursor: inherit; pointer-events: inherit;\" class=\"enter\"><style></style><div style=\"width: 100%; height: 100%;\"><div style=\"width: 100%; height: 100%; position: relative;\"><div id=\"l9uvv4h7\" style=\"left: 0px; top: 0px; z-index: 100; position: absolute; width: 300px; height: 300px; cursor: inherit; pointer-events: inherit;\" class=\"enter\"><style></style><div style=\"width: 100%; height: 100%;\"><div style=\"width: 100%; height: 100%; background-color: rgba(45, 143, 255, 1); border-color: transparent; border-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;\"></div></div></div></div></div></div></div></div></div></div></div>\n    </body>\n  </html>\n  ",
+  "editorHtml": "<!DOCTYPE html>\n  <html lang=\"en\">\n    <head>\n      <meta charset=\"utf-8\" />\n      <title>Sofia Studio</title>\n      <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n      <meta name=\"mobile-web-app-capable\" content=\"yes\" />\n      <meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n      <meta name=\"theme-color\" content=\"#673ab8\" />\n      <link rel=\"icon\" type=\"image/x-icon\" href=\"https://firebasestorage.googleapis.com/v0/b/fireck-4c36e.appspot.com/o/ur5d7YmYL2b8afvGrAEdos.ico?alt=media&token=f8652453-9ace-4c7b-a2fc-a742733bc3dd\">\n      <style>body{margin: 0;padding: 0;} *{box-sizing: border-box; border-color: #e5e7eb; border-style: solid; border-width: 0;}</style>\n      <link href=\"https://storage.googleapis.com/fireck-4c36e.appspot.com/8u9qah7nol9uvo0k5.css?GoogleAccessId=firebase-adminsdk-xs2al%40fireck-4c36e.iam.gserviceaccount.com&Expires=16731698400&Signature=lPDzouf%2Bhmzg2eJc1UWhrZKc6ppGmbYgvWXAWrePe4dnh54yuC5s1Hims1um4I%2FZPl0Qirot6gfFQoB7Ki2utq2pPvV0Kj2s4Kxnako4hbsbxKX1SRXViWjrFQ7J94xlyTBPBFWTlSsnKheMHo2qjVJOwjILSc7AaYzeKS5R2QcydiZGJygrrp1kBl0C%2FwcumAvHcNFQHRBQ7RbJ6FSkM%2B%2B47M6a6bLVjQnmtanEhAYSUBuzRgHUg%2Bbmd7RWKkVvkOAUvwI5CKQmxhIqymEqSsdX3eXDn2e2SRKXPwP33YEjrCytQ7XJ2guXXPZR58Qk%2BmE8yo5JPh%2Bq%2FxJX6bNiAw%3D%3D\" rel=\"stylesheet\" />\n    \n    </head>\n    <body>\n    <script>window.STUDIO_EDITOR_URLS = {\"css\":\"https://storage.googleapis.com/fireck-4c36e.appspot.com/8u9qah7nol9uvo0k5.css?GoogleAccessId=firebase-adminsdk-xs2al%40fireck-4c36e.iam.gserviceaccount.com&Expires=16731698400&Signature=lPDzouf%2Bhmzg2eJc1UWhrZKc6ppGmbYgvWXAWrePe4dnh54yuC5s1Hims1um4I%2FZPl0Qirot6gfFQoB7Ki2utq2pPvV0Kj2s4Kxnako4hbsbxKX1SRXViWjrFQ7J94xlyTBPBFWTlSsnKheMHo2qjVJOwjILSc7AaYzeKS5R2QcydiZGJygrrp1kBl0C%2FwcumAvHcNFQHRBQ7RbJ6FSkM%2B%2B47M6a6bLVjQnmtanEhAYSUBuzRgHUg%2Bbmd7RWKkVvkOAUvwI5CKQmxhIqymEqSsdX3eXDn2e2SRKXPwP33YEjrCytQ7XJ2guXXPZR58Qk%2BmE8yo5JPh%2Bq%2FxJX6bNiAw%3D%3D\",\"js\":\"https://storage.googleapis.com/fireck-4c36e.appspot.com/8u9qah7nol9uvnwl5.js?GoogleAccessId=firebase-adminsdk-xs2al%40fireck-4c36e.iam.gserviceaccount.com&Expires=16731698400&Signature=ACSccO8dOMKLd7%2FZYFb3HTnAfM90yqeX8b6qKU50op78c8dwlduzOlg10Hmhvead17TnXVcC%2BD%2B8y8GzPBeBzKTLPx55oKNb7AMp2u5MCVVEODaIYLJ3yBHAyTHOse3I8xIFqWvqF1gLRm9i%2BuhWF7D4CGjyTDzueUt7nCjbR%2FCUcyoXcKdLC%2B1rzsOPbHBInI03hEWJaoye58vEUJyV1ox2zD411DSZk%2FOtP%2BxfHLjwRDTxApG%2BkIbZvjTgscQcsm3Y763fpp%2FudlYw%2BtMvIbzjawUXMA37a5Cd9uww5rBZ8MqxF1VYuYADjUfh75bD%2BcWP%2BxblvDlDFlp5%2Bs2yfQ%3D%3D\",\"polyfills\":\"https://storage.googleapis.com/fireck-4c36e.appspot.com/8u9qah7nol9uvnv4f.js?GoogleAccessId=firebase-adminsdk-xs2al%40fireck-4c36e.iam.gserviceaccount.com&Expires=16731698400&Signature=qSZ2M98zgY%2BdPbts4PI3IrQMtNMLby7QlBqMp2hYu0VfcyKX9GvZUcj4tXV%2Fhw7%2BwRlvX0WpK5qftGznlAL8D5LnTYkMoiyxG5tJ1rTe8MQnGwTnRv0kCuSw2Ke1V61z6jzABVnprTyRve1OpR4jpOIW5e%2B7bfEDgDbbx%2BNTvGIf6M7sYWmeDNn7hIg%2BWbedX8%2BHbANAiLvzEMWt34QOrl%2BIEPOtTW8BNFiLPY%2B3LIDveMKHBPsCUTlYjn6oehnPrq4rpKU249FhpBlJAzX6cGlhOyrIbzz8KdCKnMv0%2F7idXPYxeG6G8oOfBCvCsd2ZJ55hBHg8HZduD81gTpCrAA%3D%3D\"}; window.STUDIO_PREVIEW_URLS = {\"css\":\"https://storage.googleapis.com/fireck-4c36e.appspot.com/8u9qah7nol9uvo48g.css?GoogleAccessId=firebase-adminsdk-xs2al%40fireck-4c36e.iam.gserviceaccount.com&Expires=16731698400&Signature=4Zng%2BSPUpMTuM3R3CRhpb16FEmmubKBnOGGkf5GYwyLfb2rcLtY3AxHbhTgUUYALMNMzsFAbYAOYPXx0eFKMp4WGmTri9%2BoMAvx7kHixJJBqyRaFhfHYY36%2F5sLndfhqVQPAaSmD%2BgeaOhfPUvW7PXrnE18jb%2FeK5IVYvIWP9b2MHAAaS9m81A1bTa4tvPLaZgnlE1nzC59Kzz9UZimXNsFo9unJQ9eAzOH%2FIh5w90pUR26yr8d23AtiA00plnq%2Fmd7R9u0wWBzLfTO21ipwvf1pGMEX%2FEx8n%2Bl4EGGhp4tJCQwlgYJEeXICebNVlti5DKrLkAAJfCgAQ7ahHQhrFg%3D%3D\",\"js\":\"https://storage.googleapis.com/fireck-4c36e.appspot.com/8u9qah7nol9uvo2ow.js?GoogleAccessId=firebase-adminsdk-xs2al%40fireck-4c36e.iam.gserviceaccount.com&Expires=16731698400&Signature=umiglEjFA0bl1Qk7bS%2B0kXQqoWdzHHcYg0Ae4IXhBHISo6Pl1olpHTiqC1CgJwlxPrTdav8SIFC03CyMmSdPgebfBjpRIxHrXT9ddAtWw8uWMWNkTLQbcKTQ4nOXMEs5t%2Bp5hXbPoOvKFcg7T4iCgujTb3tSOHG%2BHBJ18QqIHYvHRWs6uT8DMKA9PiQ9o7VZIQI0p48wNM%2BWS0vx8xe0W%2FYuabaVpqE43H%2BGuaI%2FKi9y8ytcsfO1FXj3bKhB4H9QNO%2FIK3ogULL%2Bhs%2Bl8onNjNWTFT%2BGw0b83YhRBCoHOXWN5ehRoSn0VkR3BhlNfRIFY5CvJ%2FZell1ILWtEl7UTiA%3D%3D\",\"polyfills\":\"https://storage.googleapis.com/fireck-4c36e.appspot.com/8u9qah7nol9uvo1o7.js?GoogleAccessId=firebase-adminsdk-xs2al%40fireck-4c36e.iam.gserviceaccount.com&Expires=16731698400&Signature=29Hps6ffd4DBrT972UV3JZQkCdIV5pwE5OliMdv3VsIXTK%2Byx880OZIKt78cPCNSnd%2BL8X3y7wb%2BcP45i%2B6F1MJOlP5d8UuoUdBHkxtcvR4G%2FE%2BvMattqnmz0IKZnQusIpqkInB%2BqGlnB7awthrMfIzU03yZrgFWNL0O8XSCnkJV0kxtLWWgmjlBUtLscr6fcMhtSBbd8WtyrfYocyKsCU2oP2Vl1D6Tp%2Fy99GVPtWym34kux8VYcodjdKQmjcQ29SvhbH%2FiNGe3EQXDFbczQ7g1huhfNisY9MpmzqVlc4EwtoCC%2FkUXgCG4UwLFyj%2BGZtvNemEjwkdxB67%2F1eakwg%3D%3D\"};</script>\n      \n      <script nomodule src=\"https://storage.googleapis.com/fireck-4c36e.appspot.com/8u9qah7nol9uvnv4f.js?GoogleAccessId=firebase-adminsdk-xs2al%40fireck-4c36e.iam.gserviceaccount.com&Expires=16731698400&Signature=qSZ2M98zgY%2BdPbts4PI3IrQMtNMLby7QlBqMp2hYu0VfcyKX9GvZUcj4tXV%2Fhw7%2BwRlvX0WpK5qftGznlAL8D5LnTYkMoiyxG5tJ1rTe8MQnGwTnRv0kCuSw2Ke1V61z6jzABVnprTyRve1OpR4jpOIW5e%2B7bfEDgDbbx%2BNTvGIf6M7sYWmeDNn7hIg%2BWbedX8%2BHbANAiLvzEMWt34QOrl%2BIEPOtTW8BNFiLPY%2B3LIDveMKHBPsCUTlYjn6oehnPrq4rpKU249FhpBlJAzX6cGlhOyrIbzz8KdCKnMv0%2F7idXPYxeG6G8oOfBCvCsd2ZJ55hBHg8HZduD81gTpCrAA%3D%3D\"></script>\n      <script src=\"https://storage.googleapis.com/fireck-4c36e.appspot.com/8u9qah7nol9uvnwl5.js?GoogleAccessId=firebase-adminsdk-xs2al%40fireck-4c36e.iam.gserviceaccount.com&Expires=16731698400&Signature=ACSccO8dOMKLd7%2FZYFb3HTnAfM90yqeX8b6qKU50op78c8dwlduzOlg10Hmhvead17TnXVcC%2BD%2B8y8GzPBeBzKTLPx55oKNb7AMp2u5MCVVEODaIYLJ3yBHAyTHOse3I8xIFqWvqF1gLRm9i%2BuhWF7D4CGjyTDzueUt7nCjbR%2FCUcyoXcKdLC%2B1rzsOPbHBInI03hEWJaoye58vEUJyV1ox2zD411DSZk%2FOtP%2BxfHLjwRDTxApG%2BkIbZvjTgscQcsm3Y763fpp%2FudlYw%2BtMvIbzjawUXMA37a5Cd9uww5rBZ8MqxF1VYuYADjUfh75bD%2BcWP%2BxblvDlDFlp5%2Bs2yfQ%3D%3D\"></script>\n    </body>\n  </html>\n  ",
+  "authorUid": ""
+}
